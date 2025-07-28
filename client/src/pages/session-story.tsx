@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Link } from "wouter";
 import { ArrowLeft, Users, TrendingUp, Heart } from "lucide-react";
+import classroomImage from "@assets/WhatsApp Image 2025-07-27 at 18.02.14_43bb6dfa_1753725852223.jpg";
 
 export default function SessionStory() {
   return (
@@ -86,6 +87,22 @@ export default function SessionStory() {
             <Card className="bg-gradient-to-r from-muted-coral/5 to-clay-beige/5 rounded-2xl mb-12">
               <CardContent className="p-8">
                 <h2 className="text-3xl font-bold text-charcoal mb-6">The Final Session</h2>
+                
+                {/* Add the classroom image */}
+                <div className="relative rounded-2xl overflow-hidden shadow-lg mb-8">
+                  <img 
+                    src={classroomImage} 
+                    alt="Final Grief Circuits session with over 100 students in attendance" 
+                    className="w-full h-64 object-cover" 
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
+                  <div className="absolute bottom-4 left-4 text-white">
+                    <div className="text-sm font-medium bg-black/50 px-3 py-1 rounded-full">
+                      Standing Room Only - 100+ Students
+                    </div>
+                  </div>
+                </div>
+                
                 <p className="text-lg text-gray-700 leading-relaxed mb-6">
                   Our final session of the year had standing room only. More than one hundred students showed up. Some brought journals they had kept throughout the term. Others just came to listen. The models on the table weren't perfect replicas of any known circuit, but they made sense to those who had built them. That was the point.
                 </p>
