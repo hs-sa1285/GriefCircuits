@@ -22,7 +22,7 @@ export default function SessionStory() {
               From Six to <span className="text-soft-blue">Standing Room Only</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              The story of how Grief Circuits grew from a small experiment to a movement that reached over 100 students
+              The story of how Grief Circuits grew from a small experiment to a movement that reached over 700 students across 12 sessions
             </p>
             
             <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto">
@@ -30,22 +30,22 @@ export default function SessionStory() {
                 <div className="w-16 h-16 bg-soft-blue/10 rounded-xl flex items-center justify-center mx-auto mb-3">
                   <Users className="w-8 h-8 text-soft-blue" />
                 </div>
-                <div className="text-2xl font-bold text-charcoal">6</div>
-                <div className="text-sm text-gray-600">Started With</div>
+                <div className="text-2xl font-bold text-charcoal">12</div>
+                <div className="text-sm text-gray-600">Sessions This Year</div>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-muted-coral/10 rounded-xl flex items-center justify-center mx-auto mb-3">
                   <TrendingUp className="w-8 h-8 text-muted-coral" />
                 </div>
-                <div className="text-2xl font-bold text-charcoal">100+</div>
+                <div className="text-2xl font-bold text-charcoal">700+</div>
                 <div className="text-sm text-gray-600">Students Reached</div>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-clay-beige/40 rounded-xl flex items-center justify-center mx-auto mb-3">
                   <Heart className="w-8 h-8 text-orange-600" />
                 </div>
-                <div className="text-2xl font-bold text-charcoal">1</div>
-                <div className="text-sm text-gray-600">Final Session</div>
+                <div className="text-2xl font-bold text-charcoal">100+</div>
+                <div className="text-sm text-gray-600">Last Session</div>
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ export default function SessionStory() {
               <CardContent className="p-8">
                 <h2 className="text-3xl font-bold text-charcoal mb-6">The Growth</h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                  Over time, the room filled. Friends brought friends. Students who wouldn't normally enter a counselor's office found permission here to reflect logically, spatially, privately. By spring, over a hundred students from across campus had joined at least one session. The language began to spread. Boys who hadn't spoken to each other before were discussing how they were rebuilding their base nodes or adding capacitors after exams.
+                  Over time, the room filled. Friends brought friends. Students who wouldn't normally enter a counselor's office found permission here to reflect logically, spatially, privately. Across 12 sessions this year, over 700 students from across campus participated. The language began to spread. Boys who hadn't spoken to each other before were discussing how they were rebuilding their base nodes or adding capacitors after exams.
                 </p>
                 
                 <div className="bg-white rounded-xl p-6 border-l-4 border-soft-blue">
@@ -104,7 +104,7 @@ export default function SessionStory() {
                 </div>
                 
                 <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                  Our final session of the year had standing room only. More than one hundred students showed up. Some brought journals they had kept throughout the term. Others just came to listen. The models on the table weren't perfect replicas of any known circuit, but they made sense to those who had built them. That was the point.
+                  Our final session of the year had standing room only. Over one hundred students attended this last gathering. Some brought journals they had kept throughout the term. Others just came to listen. The models on the table weren't perfect replicas of any known circuit, but they made sense to those who had built them. That was the point.
                 </p>
                 
                 <div className="grid md:grid-cols-2 gap-6 mt-8">

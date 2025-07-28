@@ -58,7 +58,7 @@ export default function Home() {
                 Grief Circuits is a student-founded initiative designed for male high schoolers to explore grief, burnout, and recovery through physics-based metaphors. We use resistance, current, and pressure systems to understand emotional flow—and rebuild with clay, reflection, and community.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed mb-6">
-                What started with six quiet, guarded students has grown to over 100 participants. We've created a space where boys can discuss emotional resilience using the logical frameworks they already trust and respect.
+                What started with six quiet, guarded students has grown to over 700 participants across 12 sessions this year. We've created a space where boys can discuss emotional resilience using the logical frameworks they already trust and respect.
               </p>
               <Link href="/session-story">
                 <Button variant="outline" className="border-soft-blue text-soft-blue hover:bg-soft-blue hover:text-white">
@@ -76,7 +76,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
               </div>
               <div className="absolute -bottom-6 -right-6 bg-clay-beige rounded-xl p-4 shadow-lg">
-                <div className="text-2xl font-bold text-charcoal">100+</div>
+                <div className="text-2xl font-bold text-charcoal">700+</div>
                 <div className="text-sm text-gray-600">Students Reached</div>
               </div>
             </div>
