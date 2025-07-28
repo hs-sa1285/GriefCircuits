@@ -19,7 +19,7 @@ export default function SessionStory() {
           
           <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-charcoal mb-6 leading-tight">
-              From Six to <span className="text-soft-blue">Standing Room Only</span>
+              Built for Six, <span className="text-soft-blue">Filled by Hundreds</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
               The story of how Grief Circuits grew from a small experiment to a movement that reached over 700 students across 12 sessions
