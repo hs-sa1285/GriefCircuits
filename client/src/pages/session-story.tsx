@@ -134,7 +134,7 @@ export default function SessionStory() {
               <CardContent className="p-8">
                 <h2 className="text-3xl font-bold text-charcoal mb-6">Scaling the Program</h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                  Now the program is scaling. This September, my school's annual STEM Olympiad will include a new segment. One dedicated to Grief Circuits and the broader idea of systems-based emotional education. Workshops will be open to visiting students from across Lahore. The goal is not therapeutic catharsis. It is structural literacy. If boys can understand pressure in pipes and signal loss in wires, they can begin to map those same principles onto internal states without shame or abstraction.
+                  Now the program is scaling. This September, my school's annual STEM Olympiad will include a new segment. One dedicated to Grief Circuits and the broader idea of systems-based emotional education. Workshops will be open to visiting students from across Pakistan, with an expected reach of over 1000+ participants. The goal is not therapeutic catharsis. It is structural literacy. If boys can understand pressure in pipes and signal loss in wires, they can begin to map those same principles onto internal states without shame or abstraction.
                 </p>
                 
                 <p className="text-lg text-gray-700 leading-relaxed">
@@ -142,16 +142,29 @@ export default function SessionStory() {
                 </p>
                 
                 <div className="mt-8 p-6 bg-charcoal rounded-xl text-white">
-                  <h4 className="text-xl font-bold mb-3">What's Next</h4>
-                  <div className="grid md:grid-cols-2 gap-4 text-sm">
+                  <h4 className="text-xl font-bold mb-4">What's Next: National Scale Impact</h4>
+                  <div className="grid md:grid-cols-3 gap-6">
                     <div>
-                      <strong>STEM Olympiad Integration</strong>
-                      <p className="text-gray-300 mt-1">Grief Circuits workshops for visiting students across Lahore</p>
+                      <div className="text-3xl font-bold text-soft-blue mb-2">1000+</div>
+                      <strong className="text-white">Expected Participants</strong>
+                      <p className="text-gray-300 mt-1 text-sm">Students from across Pakistan joining STEM Olympiad workshops</p>
                     </div>
                     <div>
-                      <strong>Structural Literacy Focus</strong>
-                      <p className="text-gray-300 mt-1">Teaching emotional understanding through systems thinking</p>
+                      <div className="text-3xl font-bold text-muted-coral mb-2">Sept</div>
+                      <strong className="text-white">STEM Olympiad Launch</strong>
+                      <p className="text-gray-300 mt-1 text-sm">Dedicated Grief Circuits segment at annual competition</p>
                     </div>
+                    <div>
+                      <div className="text-3xl font-bold text-clay-beige mb-2">🔧</div>
+                      <strong className="text-white">Structural Literacy</strong>
+                      <p className="text-gray-300 mt-1 text-sm">Teaching emotional systems without shame or abstraction</p>
+                    </div>
+                  </div>
+                  
+                  <div className="mt-6 pt-4 border-t border-gray-600">
+                    <p className="text-gray-300 text-sm italic">
+                      "We don't need to dismantle stoicism. We just need to reframe it in terms they already respect."
+                    </p>
                   </div>
                 </div>
               </CardContent>

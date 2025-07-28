@@ -2,7 +2,7 @@
 
 ## Overview
 
-Grief Circuits is a full-stack web application built to support male high schoolers in navigating grief, burnout, and recovery through physics-based metaphors and community healing. The application serves as a platform to share the story of how a small experimental program grew from 6 students to over 100 participants, demonstrating the power of reframing emotional education through scientific concepts that resonate with students.
+Grief Circuits is a full-stack web application built to support male high schoolers in navigating grief, burnout, and recovery through physics-based metaphors and community healing. The application serves as a platform to share the story of how a small experimental program grew from 6 students to over 100 participants locally, and is now scaling to reach 1000+ students across Pakistan through the annual STEM Olympiad integration. The website demonstrates the power of reframing emotional education through scientific concepts that resonate with students.
 
 ## User Preferences
 
